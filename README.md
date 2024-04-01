@@ -21,19 +21,20 @@ VOT is an innovative platform designed to broaden perspectives by providing acce
 1. Clone the repository:
 ```bash
 git clone https://github.com/chitangchin/VotingOnArticles.git
-
-Navigate to the project directory:
-bash
-Copy code
-cd VOT
-Install dependencies:
-bash
-Copy code
+```
+2. Navigate to the project directory:
+```bash
+cd VotingOnArticles
+```
+3. Install dependencies:
+```bash
 npm install
-Start the application:
-bash
-Copy code
+```
+4. Start the application:
+```bash
 npm start
+```
+
 The application should now be running on http://localhost:3000.
 
 Usage
@@ -54,8 +55,6 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Project Link: https://github.com/chitangchin/VOT
-Email: your.email@example.com
+Project Link: https://github.com/chitangchin/VotingOnArticles
+Email: chitangb.chin@gmail.com
 We hope VOT helps you broaden your horizons by connecting with diverse perspectives from around the world!
-
-vbnet
