@@ -41,10 +41,6 @@ Usage
 After launching VOT, you can navigate through the application to:
 
 Read Articles: Browse and read articles from different countries.
-Share Opinions: Click on any article to read more and share your opinion in the comments section.
-Customize Your Feed: Follow specific topics or countries to tailor your news feed.
-Contributing
-We welcome contributions from the community! If you'd like to contribute to VOT, please follow these steps:
 
 Fork the repository.
 Create a new branch for your feature (git checkout -b feature/AmazingFeature).
